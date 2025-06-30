@@ -1,0 +1,37 @@
+[
+  {
+    "id": "6480e92d-1951-4e86-a643-050229ce3a55",
+    "task": "Bangun",
+    "completed": false
+  },
+  {
+    "id": "ba5749aa-6676-446c-b778-85822ad04dec",
+    "task": "Masak",
+    "completed": false
+  },
+  {
+    "id": "02509c69-5cb6-4403-b165-f21b602aec82",
+    "task": "Makan",
+    "completed": false
+  },
+  {
+    "id": "ca493d9c-fd78-40e0-aee5-bf8ac28df0cc",
+    "task": "Mandi",
+    "completed": false
+  },
+  {
+    "id": "b493544a-2beb-4aca-b078-6bd10d4e40f2",
+    "task": "PKL",
+    "completed": false
+  },
+  {
+    "id": "d9d1c825-3adb-4e14-9d02-96ab4c642f8a",
+    "task": "Istirahat",
+    "completed": false
+  },
+  {
+    "id": "eb7045c8-784d-4e0b-877e-55d6f8cb9805",
+    "task": "Pulang cuy",
+    "completed": false
+  }
+]
